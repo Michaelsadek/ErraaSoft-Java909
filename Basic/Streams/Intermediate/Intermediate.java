@@ -1,4 +1,4 @@
-package SpringBoot.Streams.Intermediate;
+package Basic.Streams.Intermediate;
 
 import java.util.Arrays;
 import java.util.List;

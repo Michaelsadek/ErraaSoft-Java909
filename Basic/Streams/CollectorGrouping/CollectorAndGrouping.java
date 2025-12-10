@@ -1,4 +1,4 @@
-package SpringBoot.Streams.CollectorGrouping;
+package Basic.Streams.CollectorGrouping;
 
 import java.util.*;
 import java.util.stream.*;

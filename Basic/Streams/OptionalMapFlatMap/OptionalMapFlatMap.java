@@ -1,4 +1,4 @@
-package SpringBoot.Streams.OptionalMapFlatMap;
+package Basic.Streams.OptionalMapFlatMap;
 
 import java.util.Arrays;
 import java.util.List;

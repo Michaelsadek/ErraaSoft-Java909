@@ -1,4 +1,4 @@
-package SpringBoot.Streams.Basic;
+package Basic.Streams.Basic;
 
 import java.util.*;
 import java.util.stream.*;

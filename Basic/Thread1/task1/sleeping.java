@@ -1,0 +1,11 @@
+package Basic.Thread1.task1;
+
+public class sleeping {
+    public static void main(String[] args) throws InterruptedException {
+        for(int i = 1; i<=5; i++){
+            System.out.println(i);
+            Thread.sleep(1000); 
+        }
+    }
+    
+}

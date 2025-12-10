@@ -1,4 +1,4 @@
-package SpringBoot.Streams.NumericAndReductions;
+package Basic.Streams.NumericAndReductions;
 
 import java.util.Arrays;
 import java.util.List;
