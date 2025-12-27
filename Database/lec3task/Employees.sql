@@ -38,6 +38,7 @@ INSERT INTO employees (emp_id, first_name, last_name, manager_id, hire_date, dep
 (168, 'Angela', 'Baker', 100, '2024-06-05', 20, 4850.00, 'IT_PROG', 'angela.baker@email.com'),
 (169, 'Stephanie', 'Gonzalez', NULL, '2024-07-10', 70, 5950.00, 'SA_MGR', 'stephanie.gonzalez@email.com'),
 (170, 'peterson', 'Nelson', 169, '2024-08-15', 70, 4250.00, 'SA_REP', 'peterson.nelson@email.com');
+
 -- 1  Find all employee where the emp_id is within a certain range 100 and 105
 SELECT * FROM employees WHERE emp_id BETWEEN 100 AND 105;
 
